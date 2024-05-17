@@ -16,19 +16,19 @@ global.socialm = "GitHub: Debashis121212" //ur github or insta name
 global.location = "Nalhati, Birbhum, WB,INDIA  " //ur location
 
 //new
-global.botname = 'Devilous' //ur bot name
-global.ownernumber = '22390633817' //ur owner number
-global.ownername = '☬✞ 𝔇𝔢𝔟𝔞𝔰𝔥𝔦𝔰 𝔇𝔢𝔶 ✞☬™' //ur owner name
+global.botname = '𝑏𝑤𝑎𝑏𝑦𝑚𝑜𝑢𝑑𝑦♨︎' //ur bot name
+global.ownernumber = '22395064497' //ur owner number
+global.ownername = '☬✞𝑏𝑤𝑎𝑏𝑦𝑚𝑜𝑢𝑑𝑦♨︎✞☬™' //ur owner name
 global.websitex = "https://www.facebook.com/Debashi.Dey.X1/"
 global.wagc = "https://chat.whatsapp.com/C4NU6KefgoLL9W8vpbhbEY"
 global.themeemoji = '📌'
 global.wm = " 𝕯𝕯 𝕮𝖍𝖊𝖊𝖒𝖘 𝕸𝖚𝖑𝖙𝖎𝖉𝖊𝖛𝖎𝖈𝖊 𝕭𝖔𝖙  "
 global.botscript = 'https://github.com/DebashisX1/cheemsbot-v12' //script link
 global.packname = "Sticker By"
-global.author = "Debashis Dey\n\n+919339619072"
-global.creator = "22390633817@s.whatsapp.net"
-global.xprefix = '.'
-global.premium = ["22390633817"] // Premium User
+global.author = "𝑏𝑤𝑎𝑏𝑦𝑚𝑜𝑢𝑑𝑦♨︎\n\n+22395064497"
+global.creator = "22395064497@s.whatsapp.net"
+global.xprefix = ''
+global.premium = ["22395064497"] // Premium User
 global.hituet = 0
 //bot sett
 global.typemenu = 'v10' // menu type 'v1' => 'v10'
